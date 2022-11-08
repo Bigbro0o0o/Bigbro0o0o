@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Riley
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning c++ in school however it is easy and I already know how to do most of it
+- 💞️ I’m not really looking to collaborate on much because I dont work very well with other people. However I am working on it and have gotten better over the past year.
+- 📫 How to reach me: (ill link this when I decide to create a new better email)
